@@ -12,8 +12,8 @@ description: >-
 developer: Joshua
 submitter: Joshua
 releaseNotes: >-
-  0.1 First Relases!
+  0.1 First Release!
 dependencies: []
-path: ""
+path: "/dockerumbrel"
 defaultUsername: ""
 defaultPassword: ""
