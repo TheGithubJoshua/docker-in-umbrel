@@ -1,0 +1,19 @@
+manifestVersion: 1
+id: sparkles-hello-world
+name: Hello World
+tagline: Replace this tagline with your app's tagline
+icon: https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png
+category: Development
+version: "1.0.0"
+port: 3000
+description: >-
+  It's Docker In Umbrel (Technicly Docker In Docker)
+
+developer: Joshua
+submitter: Joshua
+releaseNotes: >-
+  0.1 First Relases!
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
